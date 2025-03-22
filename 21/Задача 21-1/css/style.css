@@ -1,0 +1,56 @@
+* {
+	margin: 2px;
+	padding: 2px;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Marifa";
+}
+
+#imgrolik {
+	width: 210px;
+	height: 118px;
+}
+
+.con {
+	width: 210px;
+}
+
+.con2 {
+	display: flex;
+	/* justify-content: space-between; */
+	flex-wrap: wrap;
+}
+
+.cray_text {
+	color: lightslategray;
+	margin: 0;
+	padding: 0;
+}
+
+.con1>img {
+	width: 3%;
+	border-radius: 50%;
+}
+
+.con1 {
+	display: flex;
+	align-items: center;
+}
+
+hr {
+	color: lightslategray;
+	margin: 0;
+	padding: 0;
+}
+
+.test_con {
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+}
+
+.tesst {
+	background-color: red;
+}
